@@ -1,0 +1,58 @@
+body{
+	background-color: lightgray;
+	font-family: sans-serif;
+}
+
+.parent{
+	
+	background-color: white;
+	width: 500px;
+	height: 420px;
+	margin: auto;
+	margin-top: 80px;
+	padding: 25px 0;
+}
+.parsa{
+	
+	width:250px;
+	display: block;
+	margin: auto;
+	border: 2px dotted gray;
+	border-radius: 50%
+}
+.pooya{
+	width: 90px;
+	border-radius: 90%;
+}
+.arya{
+	width: 90px;
+	border-radius: 50%;
+	
+}
+.movie{
+	width: 90px;
+	border-radius:50%;
+}
+.titel{
+	margin: auto;
+	padding: 35px auto;
+	font-size: 25px;
+	border-bottom: 5px solid lightgray;
+	width: 160px;
+}
+.DC{
+	text-align: center
+}
+.Marvel{
+	height: 90px;
+	background-color: lightgrey;
+	text-align: center;
+	margin: 5px;
+		
+}
+
+
+
+
+
+
